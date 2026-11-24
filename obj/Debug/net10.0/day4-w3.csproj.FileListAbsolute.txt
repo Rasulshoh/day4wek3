@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\day4-w3\bin\Debug\net10.0\day4-w3.exe
+C:\Users\Admin\Desktop\day4-w3\bin\Debug\net10.0\day4-w3.deps.json
+C:\Users\Admin\Desktop\day4-w3\bin\Debug\net10.0\day4-w3.runtimeconfig.json
+C:\Users\Admin\Desktop\day4-w3\bin\Debug\net10.0\day4-w3.dll
+C:\Users\Admin\Desktop\day4-w3\bin\Debug\net10.0\day4-w3.pdb
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\day4-w3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\day4-w3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\day4-w3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\day4-w3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\day4-w3.sourcelink.json
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\day4-w3.dll
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\refint\day4-w3.dll
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\day4-w3.pdb
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\day4-w3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\day4-w3\obj\Debug\net10.0\ref\day4-w3.dll
